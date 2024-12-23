@@ -65,8 +65,7 @@
     </style>
 </head>
 <body>
-    <header>
-        <img src="bandeDTI.jpg" alt="Bandeau Collaboration RTL Group/Bertelsmann">
+    <header><img src="bandeDTI.jpg" alt="Bandeau Collaboration RTL Group/Bertelsmann">
     </header>
     <div class="container">
         <h1>Compte rendu Collaboration RTL Group/Bertelsmann</h1>
